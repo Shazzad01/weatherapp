@@ -1,4 +1,4 @@
-# weather_app_batch05
+# weather_app
 
 A new Flutter project.
 
